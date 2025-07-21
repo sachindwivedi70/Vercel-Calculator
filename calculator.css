@@ -1,9 +1,7 @@
 .border{
     border : 1px solid black;
-    width:200px;
+    max-width:200px;
    box-shadow: 20px 10px 40px rgb(90, 88, 88);
-
-
 }
 .display{
     margin: 10px;
